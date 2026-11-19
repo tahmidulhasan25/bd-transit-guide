@@ -5,7 +5,7 @@
     "bnName": "তিস্তা এক্সপ্রেস",
     "number": "707",
     "from": "Dhaka",
-    "to": "Dewanganj Bazar",
+    "to": "Jamalpur",
     "departure": "07:30 AM",
     "arrival": "01:15 PM",
     "duration": "৫ ঘণ্টা ৪৫ মিনিট",
@@ -13,9 +13,7 @@
     "fare": "৳১২০ - ৳৪৫০",
     "stops": [
       { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "07:30 AM" },
-      { "station": "Airport", "district": "Dhaka", "time": "07:58 AM" },
       { "station": "Joydebpur", "district": "Gazipur", "time": "08:35 AM" },
-      { "station": "Sreepur", "district": "Gazipur", "time": "09:05 AM" },
       { "station": "Gafargaon", "district": "Mymensingh", "time": "09:42 AM" },
       { "station": "Mymensingh Junction", "district": "Mymensingh", "time": "10:45 AM" },
       { "station": "Jamalpur Town", "district": "Jamalpur", "time": "11:55 AM" },
@@ -27,7 +25,7 @@
     "name": "Tista Express",
     "bnName": "তিস্তা এক্সপ্রেস",
     "number": "708",
-    "from": "Dewanganj Bazar",
+    "from": "Jamalpur",
     "to": "Dhaka",
     "departure": "03:00 PM",
     "arrival": "09:05 PM",
@@ -44,32 +42,12 @@
     ]
   },
   {
-    "id": "tr-jamuna-745",
-    "name": "Jamuna Express",
-    "bnName": "যমুনা এক্সপ্রেস",
-    "number": "745",
-    "from": "Dhaka",
-    "to": "Tarakandi",
-    "departure": "04:45 PM",
-    "arrival": "09:40 PM",
-    "duration": "৪ ঘণ্টা ৫৫ মিনিট",
-    "offDay": "None",
-    "fare": "৳১৩০ - ৳৪৮০",
-    "stops": [
-      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "04:45 PM" },
-      { "station": "Joydebpur", "district": "Gazipur", "time": "05:45 PM" },
-      { "station": "Mymensingh Junction", "district": "Mymensingh", "time": "07:45 PM" },
-      { "station": "Jamalpur Town", "district": "Jamalpur", "time": "08:45 PM" },
-      { "station": "Tarakandi", "district": "Jamalpur", "time": "09:40 PM" }
-    ]
-  },
-  {
     "id": "tr-mohua-43",
     "name": "Mohua Commuter",
     "bnName": "মহুয়া কমিউটার",
     "number": "43",
     "from": "Dhaka",
-    "to": "Mohanganj",
+    "to": "Netrokona",
     "departure": "08:15 AM",
     "arrival": "02:30 PM",
     "duration": "৬ ঘণ্টা ১৫ মিনিট",
@@ -78,48 +56,8 @@
     "stops": [
       { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "08:15 AM" },
       { "station": "Mymensingh Junction", "district": "Mymensingh", "time": "11:40 AM" },
-      { "station": "Gouripur", "district": "Mymensingh", "time": "12:25 PM" },
       { "station": "Netrokona", "district": "Netrokona", "time": "01:25 PM" },
       { "station": "Mohanganj", "district": "Netrokona", "time": "02:30 PM" }
-    ]
-  },
-  {
-    "id": "tr-mohua-44",
-    "name": "Mohua Commuter",
-    "bnName": "মহুয়া কমিউটার",
-    "number": "44",
-    "from": "Mohanganj",
-    "to": "Dhaka",
-    "departure": "03:00 PM",
-    "arrival": "09:20 PM",
-    "duration": "৬ ঘণ্টা ২০ মিনিট",
-    "offDay": "None",
-    "fare": "৳৯০ - ৳১৬০",
-    "stops": [
-      { "station": "Mohanganj", "district": "Netrokona", "time": "03:00 PM" },
-      { "station": "Netrokona", "district": "Netrokona", "time": "03:55 PM" },
-      { "station": "Gouripur", "district": "Mymensingh", "time": "04:50 PM" },
-      { "station": "Mymensingh Junction", "district": "Mymensingh", "time": "05:40 PM" },
-      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "09:20 PM" }
-    ]
-  },
-  {
-    "id": "tr-agni-735",
-    "name": "Agnibina Express",
-    "bnName": "অগ্নিবীণা এক্সপ্রেস",
-    "number": "735",
-    "from": "Dhaka",
-    "to": "Tarakandi",
-    "departure": "11:30 AM",
-    "arrival": "04:30 PM",
-    "duration": "৫ ঘণ্টা ০০ মিনিট",
-    "offDay": "None",
-    "fare": "৳১৩০ - ৳৫০০",
-    "stops": [
-      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "11:30 AM" },
-      { "station": "Mymensingh Junction", "district": "Mymensingh", "time": "02:35 PM" },
-      { "station": "Jamalpur Town", "district": "Jamalpur", "time": "03:35 PM" },
-      { "station": "Tarakandi", "district": "Jamalpur", "time": "04:30 PM" }
     ]
   },
   {
@@ -136,7 +74,6 @@
     "fare": "৳৪৫০ - ৳১,৩০০",
     "stops": [
       { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "04:30 PM" },
-      { "station": "Airport", "district": "Dhaka", "time": "04:55 PM" },
       { "station": "Bhairab Bazar", "district": "Kishoreganj", "time": "06:10 PM" },
       { "station": "Brahmanbaria", "district": "Brahmanbaria", "time": "06:45 PM" },
       { "station": "Cumilla", "district": "Cumilla", "time": "07:45 PM" },
@@ -159,27 +96,50 @@
     "stops": [
       { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "06:35 AM" },
       { "station": "Bhairab Bazar", "district": "Kishoreganj", "time": "08:25 AM" },
-      { "station": "Srimangal", "district": "Moulvibazar", "time": "11:15 AM" },
+      { "station": "Habiganj", "district": "Habiganj", "time": "09:40 AM" },
+      { "station": "Moulvibazar", "district": "Moulvibazar", "time": "11:15 AM" },
       { "station": "Sylhet", "district": "Sylhet", "time": "01:30 PM" }
     ]
   },
   {
-    "id": "tr-padma-759",
-    "name": "Padma Express",
-    "bnName": "পদ্মা এক্সপ্রেস",
-    "number": "759",
+    "id": "tr-silkcity-753",
+    "name": "Silkcity Express",
+    "bnName": "সিল্কসিটি এক্সপ্রেস",
+    "number": "753",
     "from": "Dhaka",
     "to": "Rajshahi",
-    "departure": "10:45 PM",
-    "arrival": "04:20 AM",
-    "duration": "৫ ঘণ্টা ৩৫ মিনিট",
-    "offDay": "Tuesday",
+    "departure": "02:40 PM",
+    "arrival": "08:20 PM",
+    "duration": "৫ ঘণ্টা ৪০ মিনিট",
+    "offDay": "Sunday",
     "fare": "৳৪১০ - ৳১,১৫০",
     "stops": [
-      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "10:45 PM" },
-      { "station": "Tangail", "district": "Tangail", "time": "12:35 AM" },
-      { "station": "Pabna", "district": "Pabna", "time": "02:15 AM" },
-      { "station": "Rajshahi", "district": "Rajshahi", "time": "04:20 AM" }
+      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "02:40 PM" },
+      { "station": "Tangail", "district": "Tangail", "time": "04:20 PM" },
+      { "station": "Sirajganj", "district": "Sirajganj", "time": "05:10 PM" },
+      { "station": "Natore", "district": "Natore", "time": "06:50 PM" },
+      { "station": "Rajshahi", "district": "Rajshahi", "time": "08:20 PM" }
+    ]
+  },
+  {
+    "id": "tr-rangpur-771",
+    "name": "Rangpur Express",
+    "bnName": "রংপুর এক্সপ্রেস",
+    "number": "771",
+    "from": "Dhaka",
+    "to": "Rangpur",
+    "departure": "09:10 AM",
+    "arrival": "06:40 PM",
+    "duration": "৯ ঘণ্টা ৩০ মিনিট",
+    "offDay": "Sunday",
+    "fare": "৳৫২০ - ৳১,৫০০",
+    "stops": [
+      { "station": "Kamalapur (Dhaka)", "district": "Dhaka", "time": "09:10 AM" },
+      { "station": "Tangail", "district": "Tangail", "time": "11:15 AM" },
+      { "station": "Bogura", "district": "Bogura", "time": "02:30 PM" },
+      { "station": "Joypurhat", "district": "Joypurhat", "time": "03:35 PM" },
+      { "station": "Gaibandha", "district": "Gaibandha", "time": "04:55 PM" },
+      { "station": "Rangpur", "district": "Rangpur", "time": "06:40 PM" }
     ]
   },
   {
