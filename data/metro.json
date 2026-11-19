@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mrt-6",
+    "name": "MRT Line-6 (Uttara – Motijheel)",
+    "bnName": "এমআরটি লাইন-৬",
+    "number": "MRT-6",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "from": "Uttara North",
+    "to": "Motijheel",
+    "departure": "07:10 AM",
+    "arrival": "08:40 PM",
+    "duration": "৩৮ মিনিট (পুরো রুট)",
+    "offDay": "Friday (Morning)",
+    "fare": "৳২০ - ৳১০০",
+    "stops": [
+      { "station": "Uttara North", "time": "0 min" },
+      { "station": "Mirpur-10", "time": "12 min" },
+      { "station": "Agargaon", "time": "18 min" },
+      { "station": "Farmgate", "time": "24 min" },
+      { "station": "TSC (Dhaka University)", "time": "31 min" },
+      { "station": "Motijheel", "time": "38 min" }
+    ]
+  }
+]

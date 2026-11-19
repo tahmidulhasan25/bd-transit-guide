@@ -1,0 +1,61 @@
+[
+  {
+    "id": "bus-mym-to-dhk",
+    "name": "Ena Transport (Mymensingh → Dhaka)",
+    "bnName": "এনা ট্রান্সপোর্ট (ময়মনসিংহ থেকে ঢাকা)",
+    "number": "MYM-DHK",
+    "from": "Mymensingh",
+    "to": "Dhaka",
+    "departure": "প্রতি ১৫ মিনিট পরপর",
+    "arrival": "২.৫ - ৩ ঘণ্টা",
+    "duration": "প্রায় ২ ঘণ্টা ৪৫ মিনিট",
+    "offDay": "None",
+    "fare": "৳৩২০ - ৳৫৫০",
+    "stops": [
+      { "station": "Maskanda Terminal", "district": "Mymensingh", "time": "Start" },
+      { "station": "Trishal", "district": "Mymensingh", "time": "+35 min" },
+      { "station": "Bhaluka", "district": "Mymensingh", "time": "+1 hr" },
+      { "station": "Gazipur Chowrasta", "district": "Gazipur", "time": "+1 hr 55 min" },
+      { "station": "Mohakhali", "district": "Dhaka", "time": "+2 hr 45 min" }
+    ]
+  },
+  {
+    "id": "bus-dhk-to-mym",
+    "name": "Ena Transport (Dhaka → Mymensingh)",
+    "bnName": "এনা ট্রান্সপোর্ট (ঢাকা থেকে ময়মনসিংহ)",
+    "number": "DHK-MYM",
+    "from": "Dhaka",
+    "to": "Mymensingh",
+    "departure": "প্রতি ১৫ মিনিট পরপর",
+    "arrival": "২.৫ - ৩ ঘণ্টা",
+    "duration": "প্রায় ২ ঘণ্টা ৪৫ মিনিট",
+    "offDay": "None",
+    "fare": "৳৩২০ - ৳৫৫০",
+    "stops": [
+      { "station": "Mohakhali Bus Terminal", "district": "Dhaka", "time": "Start" },
+      { "station": "Gazipur Chowrasta", "district": "Gazipur", "time": "+50 min" },
+      { "station": "Bhaluka", "district": "Mymensingh", "time": "+1 hr 45 min" },
+      { "station": "Trishal", "district": "Mymensingh", "time": "+2 hr 10 min" },
+      { "station": "Mymensingh", "district": "Mymensingh", "time": "+2 hr 45 min" }
+    ]
+  },
+  {
+    "id": "bus-dhk-to-cox",
+    "name": "Green Line Paribahan (Dhaka → Cox's Bazar)",
+    "bnName": "গ্রিন লাইন পরিবহন (ঢাকা থেকে কক্সবাজার)",
+    "number": "DHK-COX",
+    "from": "Dhaka",
+    "to": "Cox's Bazar",
+    "departure": "10:30 PM",
+    "arrival": "07:30 AM",
+    "duration": "৯ ঘণ্টা",
+    "offDay": "None",
+    "fare": "৳১,৫০০ - ৳২,২০০",
+    "stops": [
+      { "station": "Arambagh", "district": "Dhaka", "time": "10:30 PM" },
+      { "station": "Comilla Bypass", "district": "Comilla", "time": "12:30 AM" },
+      { "station": "Chittagong Dampara", "district": "Chittagong", "time": "03:45 AM" },
+      { "station": "Cox's Bazar", "district": "Cox's Bazar", "time": "07:30 AM" }
+    ]
+  }
+]
